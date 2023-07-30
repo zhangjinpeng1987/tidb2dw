@@ -1,6 +1,6 @@
 # tidb2dw
 
-A tool to replicate data from TiDB to Data Warehouse.
+A tool to replicate data changes from TiDB to Data Warehouse in real-time.
 
 > **Note**
 > Only support TiDB v7.1.0 or later, and only support Snowflake as target Data Warehouse now.
